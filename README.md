@@ -1,7 +1,7 @@
 # Everyday-problems
 * My ideas to analyze, simplify the solution of everyday problems
 
-## playlist_analyze 
+## playlist_analysis
   * I wanted to know what artists are in my library most popular(the largest number of songs by one artist) and wrote that simple code
 
 ### How to install it (coming soon)
