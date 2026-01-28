@@ -1,4 +1,4 @@
-# Everyday-problems
+# Routine-problems
 * My ideas to analyze, simplify the solution of everyday problems
 
 ## playlist_analysis
